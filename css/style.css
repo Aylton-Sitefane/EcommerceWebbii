@@ -20,3 +20,11 @@ body, html{
 img{
     max-width: 100%;
 }
+.icon-hover:hover {
+    border-color: #e0de39 !important;
+    background-color: white !important;
+  }
+  
+  .icon-hover:hover i {
+    color: #e0de39 !important;
+  }
