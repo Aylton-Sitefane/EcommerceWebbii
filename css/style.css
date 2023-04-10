@@ -268,3 +268,15 @@ img{
     background-color: #c9c6c6;
     
 }
+
+.detalhes{
+    
+}
+
+.det{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
