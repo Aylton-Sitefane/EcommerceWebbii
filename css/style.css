@@ -13,6 +13,10 @@ body{
     left: auto;
 }
 
+.bg-dark{
+    background-image: url(../images/bg.jpg);
+}
+
 body, html{
     overflow-x: hidden;
 }
@@ -121,6 +125,8 @@ a {
 .footer {
     padding-top: 70px;
     background-image: url(../images/footer-bg.jpg);
+    bottom: 0px;
+    
 }
 .set-bg {
     background-repeat: no-repeat;
@@ -140,7 +146,7 @@ footer {
 }
 
 .footer__widget {
-    position: relative;
+    position: fixed;
     margin-bottom: 30px;
 }
 
@@ -192,11 +198,9 @@ footer {
     margin-bottom: 25px;
 }
 
-.footer__about .footer__social a:last-child {
-    margin-right: 0;
-}
 
-.footer__about .footer__social a {
+
+.footer__about  a {
     display: inline-block;
     color: #ffffff;
     background: rgba(225, 225, 225, 0.1);
