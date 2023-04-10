@@ -35,6 +35,11 @@ img{
 
   .list-section {
     background-color: #c9c6c6;
+    
+}
+
+.list-section h3{
+    color: #F28123;
 }
 
 .pb-80 {
@@ -47,6 +52,180 @@ img{
     box-sizing: border-box;
 }
 
-h3{
+
+
+.container-navegacao{
+    position: fixed;
+    top: 0px;
+}
+
+nav{
+    background-color: aqua;
+}
+
+.shop-banner {
+    position: relative;
+    background-color: #f5f5f5;
+    background-image: url(../images/—Pngtree—bread\ minimalist\ literary\ white\ food_1121500.jpg);
+    background-size: cover;
+    padding: 110px 0px 115px;
+}
+
+.shop-banner h3 {
+    position: relative;
+    font-size: 50px;
+    line-height: 1.2em;
+    margin-bottom: 0px;
+}
+
+.orange-text {
+    color: #F28123;
+}
+
+a.cart-btn {
+    font-family: 'Poppins', sans-serif;
+    display: inline-block;
+    background-color: #F28123;
+    color: #fff;
+    padding: 10px 20px;
+}
+a.cart-btn {
+    -webkit-transition: 0.3s;
+    -o-transition: 0.3s;
+    transition: 0.3s;
+}
+a.boxed-btn, a.bordered-btn, a.cart-btn {
+    border-radius: 50px;
+}
+.btn-group-lg>.btn, .btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}
+a {
+    cursor: pointer;
+    text-decoration: none;
+    -webkit-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.shop-banner .sale-percent {
+    position: relative;
+    font-size: 60px;
+    font-weight: 700;
+    color: #F28123;
+}
+
+.footer {
+    padding-top: 70px;
+    background-image: url(../images/footer-bg.jpg);
+}
+.set-bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+
+.footer__widget {
+    position: relative;
+    margin-bottom: 30px;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.footer__widget h6 {
+    color: #ffffff;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 22px;
+    font-size: 16px;
+}
+
+.footer__widget ul li {
+    list-style: none;
+    font-size: 14px;
+    color: #a4a4a4;
+    line-height: 36px;
+}
+
+.copyright {
+    background: #000000;
+    padding: 18px 0 14px;
+    margin-top: 40px;
+}
+.copyright ul, ol {
+    padding: 0;
+    margin: 0;
+}
+
+.copyright dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.copyright__widget ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 30px;
+    /* position: relative; */
+}
+
+.footer__about p {
+    font-size: 14px;
+    color: #a4a4a4;
+    line-height: 26px;
+    margin-bottom: 25px;
+}
+
+.footer__about .footer__social a:last-child {
+    margin-right: 0;
+}
+
+.footer__about .footer__social a {
+    display: inline-block;
+    color: #ffffff;
+    background: rgba(225, 225, 225, 0.1);
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    line-height: 45px;
     text-align: center;
+    margin-right: 6px;
+}
+
+.copyright__widget ul li a {
+    font-size: 14px;
+    color: #888888;
+}
+
+.bg-dark{
+    background-image: url(../images/bg.jpg);
+}
+
+#d-flex button {
+    color: #f3f3f3;
+    border: 1pixel solid white;
+}
+.prato-do-dia{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.py-0{
+margin-top: 30px ;
 }
