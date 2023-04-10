@@ -269,6 +269,27 @@ img{
     
 }
 
+=======
+/* css para o detalhe dos pratos */
+
+.container-detalhes{
+    width: 450px;
+
+}
+ .bg-dark{
+    background-image: url(../images/bg.jpg);
+ }
+>>>>>>> main
+
+/* css para o detalhe dos pratos */
+
+.container-detalhes{
+    width: 450px;
+
+}
+ .bg-dark{
+    background-image: url(../images/bg.jpg);
+ }
 .detalhes{
     
 }
