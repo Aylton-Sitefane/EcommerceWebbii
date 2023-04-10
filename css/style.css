@@ -275,3 +275,6 @@ img{
     width: 450px;
 
 }
+ .bg-dark{
+    background-image: url(../images/bg.jpg);
+ }
