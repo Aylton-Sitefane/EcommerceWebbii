@@ -272,3 +272,10 @@ img{
     background-color: #c9c6c6;
     
 }
+
+/* css para o detalhe dos pratos */
+
+.container-detalhes{
+    width: 450px;
+
+}
