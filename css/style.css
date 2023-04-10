@@ -28,3 +28,25 @@ img{
   .icon-hover:hover i {
     color: #e0de39 !important;
   }
+
+  #d-flex{
+    margin-left: 20px;
+  }
+
+  .list-section {
+    background-color: #c9c6c6;
+}
+
+.pb-80 {
+    padding-bottom: 80px;
+}
+.pt-80 {
+    padding-top: 80px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+h3{
+    text-align: center;
+}
